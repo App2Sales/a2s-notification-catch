@@ -1,7 +1,7 @@
 {
   "name": "rn-a2s-notification-catch",
   "version": "1.0.0",
-  "description": "",
+  "description": "A module to catch notifications when the app is killed",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/App2Sales/rn-a2s-notification-catch.git"
   },
   "keywords": [
-    "reactnative"
+    "react-native",
+    "notification",
+    "background",
+    "catch"
   ],
   "author": "matheusnpenna@gmail.com",
   "license": "ISC",
